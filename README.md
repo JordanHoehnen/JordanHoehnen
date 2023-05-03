@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @JordanHoehnen
-- 👀 I’m interested in GIS, environmental protection, quality, and equity.
 - 📫 How to reach me: hoehnen.jordan@gmail.com
 <!---
 JordanHoehnen/JordanHoehnen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
